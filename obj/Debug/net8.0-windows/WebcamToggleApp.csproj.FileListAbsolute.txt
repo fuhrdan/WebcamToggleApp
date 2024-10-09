@@ -1,0 +1,17 @@
+C:\Users\ksfuh\WebcamToggleApp\obj\Debug\net8.0-windows\WebcamToggleApp.csproj.AssemblyReference.cache
+C:\Users\ksfuh\WebcamToggleApp\obj\Debug\net8.0-windows\WebcamToggleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ksfuh\WebcamToggleApp\obj\Debug\net8.0-windows\WebcamToggleApp.AssemblyInfoInputs.cache
+C:\Users\ksfuh\WebcamToggleApp\obj\Debug\net8.0-windows\WebcamToggleApp.AssemblyInfo.cs
+C:\Users\ksfuh\WebcamToggleApp\obj\Debug\net8.0-windows\WebcamToggleApp.csproj.CoreCompileInputs.cache
+C:\Users\ksfuh\WebcamToggleApp\bin\Debug\net8.0-windows\WebcamToggleApp.exe
+C:\Users\ksfuh\WebcamToggleApp\bin\Debug\net8.0-windows\WebcamToggleApp.deps.json
+C:\Users\ksfuh\WebcamToggleApp\bin\Debug\net8.0-windows\WebcamToggleApp.runtimeconfig.json
+C:\Users\ksfuh\WebcamToggleApp\bin\Debug\net8.0-windows\WebcamToggleApp.dll
+C:\Users\ksfuh\WebcamToggleApp\bin\Debug\net8.0-windows\WebcamToggleApp.pdb
+C:\Users\ksfuh\WebcamToggleApp\bin\Debug\net8.0-windows\Emgu.CV.dll
+C:\Users\ksfuh\WebcamToggleApp\obj\Debug\net8.0-windows\WebcamTo.661E2659.Up2Date
+C:\Users\ksfuh\WebcamToggleApp\obj\Debug\net8.0-windows\WebcamToggleApp.dll
+C:\Users\ksfuh\WebcamToggleApp\obj\Debug\net8.0-windows\refint\WebcamToggleApp.dll
+C:\Users\ksfuh\WebcamToggleApp\obj\Debug\net8.0-windows\WebcamToggleApp.pdb
+C:\Users\ksfuh\WebcamToggleApp\obj\Debug\net8.0-windows\WebcamToggleApp.genruntimeconfig.cache
+C:\Users\ksfuh\WebcamToggleApp\obj\Debug\net8.0-windows\ref\WebcamToggleApp.dll
